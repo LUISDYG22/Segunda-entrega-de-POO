@@ -1,28 +1,28 @@
----
+#  Segunda Entrega – Programación Orientada a Objetos (POO)
 
-## Universidad Nacional de Colombia  
+***
+
+##  Universidad Nacional de Colombia  
 **Facultad de Minas**
 
----
+***
 
-## Integrantes
+##  Integrantes
 
 - Luis Daniel Yepez Gaviria  
 - Marcial Antonio Ortiz Arrieta
 
----
+***
 
-## Asignatura
+##  Asignatura
 **Programación Orientada a Objetos (POO)**  
 
-## Docente: 
-- Walter Hugo Arboleda Mazo
+**Docente:** Walter Hugo Arboleda Mazo  
 
----
+***
 
-## Año:
-- 2025  
-## Ciudad:
-- Medellín, Colombia  
+##  Información adicional
+- **Año:** 2025  
+- **Ciudad:** Medellín, Colombia  
 
----
+***
