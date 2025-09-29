@@ -21,7 +21,6 @@
 
 ***
 
-##  Información adicional
 - **Año:** 2025  
 - **Ciudad:** Medellín, Colombia  
 
