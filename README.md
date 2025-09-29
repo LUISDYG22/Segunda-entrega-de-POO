@@ -15,7 +15,7 @@
 ## Asignatura
 **Programación Orientada a Objetos (POO)**  
 
-**Docente:** 
+## Docente: 
 - Walter Hugo Arboleda Mazo
 
 ---
