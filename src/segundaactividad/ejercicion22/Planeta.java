@@ -1,9 +1,5 @@
 package ejercicion22;
 
-/**
- *
- * @author Luis Daniel Yepez G
- */
 public class Planeta {
     String nombre = null;
     int cantidadSatelites = 0;
