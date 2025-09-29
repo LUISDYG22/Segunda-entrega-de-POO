@@ -1,9 +1,5 @@
 package ejercicion21;
 
-/**
- *
- * @author Luis Daniel Yepez G
- */
 public class Persona {
     String nombre;
     String apellidos;
