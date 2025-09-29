@@ -1,7 +1,7 @@
 ---
 
 ## Universidad Nacional de Colombia  
-** Facultad de Minas **
+**Facultad de Minas**
 
 ---
 
